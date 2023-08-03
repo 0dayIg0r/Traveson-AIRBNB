@@ -1,0 +1,10 @@
+.subclass{
+   text-decoration: none;
+   color: #585757;
+   text-align: center;
+   margin: 2%;
+   
+}
+.subclass:hover{
+    color: #000;
+}
